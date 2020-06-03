@@ -1,0 +1,23 @@
+button {
+    position: absolute;
+    top: 33%;
+    left: 47.5%;
+}
+
+
+.card {
+  background-color: #333333;
+}
+
+
+.fwler-img{
+   position: absolute;
+   top: 50%;
+}
+
+
+
+.flwer-username {
+    position: absolute;
+    top: 55%;
+}
